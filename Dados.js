@@ -1,0 +1,17 @@
+export const dados = [
+  { id: 1, nome: 'Pizza', preco: 20.99, descricao: 'Pizza de queijo' },
+  { id: 2, nome: 'Hambúrguer', preco: 15.99, descricao: 'Hambúrguer de carne' },
+  { id: 3, nome: 'Salada', preco: 10.99, descricao: 'Salada de frutas' },
+  { id: 4, nome: 'Sorvete', preco: 8.99, descricao: 'Sorvete de chocolate' },
+  { id: 5, nome: 'Bolo', preco: 25.99, descricao: 'Bolo de chocolate' },
+  { id: 6, nome: 'Torta', preco: 30.99, descricao: 'Torta de queijo' },
+  { id: 7, nome: 'Pão', preco: 5.99, descricao: 'Pão de queijo' },
+  { id: 8, nome: 'Queijo', preco: 12.99, descricao: 'Queijo fresco' },
+  { id: 9, nome: 'Presunto', preco: 18.99, descricao: 'Presunto de porco' },
+  { id: 10, nome: 'Frango', preco: 22.99, descricao: 'Frango grelhado' },
+  { id: 11, nome: 'Carne', preco: 28.99, descricao: 'Carne de boi' },
+  { id: 12, nome: 'Peixe', preco: 32.99, descricao: 'Peixe grelhado' },
+  { id: 13, nome: 'Ovo', preco: 6.99, descricao: 'Ovo mexido' },
+  { id: 14, nome: 'Café', preco: 4.99, descricao: 'Café com leite' },
+  { id: 15, nome: 'Chá', preco: 3.99, descricao: 'Chá de camomila' },
+];
